@@ -1,2 +1,2 @@
 # program21-22
-Programazioa ikasgai-ko materiala
+Programazioa ikasgai|ko materiala
